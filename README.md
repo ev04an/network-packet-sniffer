@@ -1,1 +1,2 @@
-"# network-packet-sniffer" 
+Network Packet Sniffer
+Network Packet Sniffer is a Python-based tool designed to capture and analyze network traffic in real-time. Using the powerful Scapy library, this sniffer can intercept packets, identify protocols like TCP, UDP, and IP, and log the details into a CSV file for further analysis. Additionally, the project features a Graphical User Interface (GUI) built with Tkinter, allowing users to monitor network activity effortlessly. Ideal for students, cybersecurity enthusiasts, and network administrators, this tool provides insightful data on network interactions, helping users detect anomalies or simply understand network behavior.
